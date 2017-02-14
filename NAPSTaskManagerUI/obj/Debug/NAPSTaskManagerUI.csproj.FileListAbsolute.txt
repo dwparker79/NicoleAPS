@@ -1,0 +1,14 @@
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\bin\Debug\NAPSTaskManagerUI.exe.config
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\bin\Debug\NAPSTaskManagerUI.exe
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\bin\Debug\NAPSTaskManagerUI.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\bin\Debug\NAPSTaskExecutor.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\bin\Debug\NAPSTaskManager.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\bin\Debug\NAPSTaskExecutor.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\bin\Debug\NAPSTaskManager.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\obj\Debug\NAPSTaskManagerUI.csprojResolveAssemblyReference.cache
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\obj\Debug\NAPSTaskManagerUI.Form1.resources
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\obj\Debug\NAPSTaskManagerUI.Properties.Resources.resources
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\obj\Debug\NAPSTaskManagerUI.csproj.GenerateResource.Cache
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\obj\Debug\NAPSTaskManagerUI.exe
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\obj\Debug\NAPSTaskManagerUI.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerUI\obj\Debug\NAPSTaskManagerUI.ScheduleCreatorForm.resources

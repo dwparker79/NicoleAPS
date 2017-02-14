@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPSTaskExecutor", "NAPSTaskExecutor\NAPSTaskExecutor.csproj", "{1075F3A6-12C4-4AE2-959A-149524FB4916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPSTaskExecutorTest", "NAPSTaskExecutorTest\NAPSTaskExecutorTest.csproj", "{838DAEA8-C1AB-477F-83AD-5D90083BC30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPSTaskManager", "NAPSTaskManager\NAPSTaskManager.csproj", "{B0B2BFBE-5946-4406-93FC-C040FCF54C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPSTaskManagerTest", "NAPSTaskManagerTest\NAPSTaskManagerTest.csproj", "{B3D1442A-F72A-402F-AFF7-59BE64B3D631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPSTaskManagerUI", "NAPSTaskManagerUI\NAPSTaskManagerUI.csproj", "{B2965DB1-66E3-465C-B143-0592E9ADE7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAPSWebPortal", "NAPSWebPortal\NAPSWebPortal.csproj", "{508819BF-66C4-44C0-B5B7-8441FB7ACB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1075F3A6-12C4-4AE2-959A-149524FB4916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1075F3A6-12C4-4AE2-959A-149524FB4916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1075F3A6-12C4-4AE2-959A-149524FB4916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1075F3A6-12C4-4AE2-959A-149524FB4916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838DAEA8-C1AB-477F-83AD-5D90083BC30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838DAEA8-C1AB-477F-83AD-5D90083BC30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838DAEA8-C1AB-477F-83AD-5D90083BC30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838DAEA8-C1AB-477F-83AD-5D90083BC30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B2BFBE-5946-4406-93FC-C040FCF54C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B2BFBE-5946-4406-93FC-C040FCF54C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B2BFBE-5946-4406-93FC-C040FCF54C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B2BFBE-5946-4406-93FC-C040FCF54C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D1442A-F72A-402F-AFF7-59BE64B3D631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D1442A-F72A-402F-AFF7-59BE64B3D631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D1442A-F72A-402F-AFF7-59BE64B3D631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D1442A-F72A-402F-AFF7-59BE64B3D631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2965DB1-66E3-465C-B143-0592E9ADE7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2965DB1-66E3-465C-B143-0592E9ADE7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2965DB1-66E3-465C-B143-0592E9ADE7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2965DB1-66E3-465C-B143-0592E9ADE7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{508819BF-66C4-44C0-B5B7-8441FB7ACB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508819BF-66C4-44C0-B5B7-8441FB7ACB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508819BF-66C4-44C0-B5B7-8441FB7ACB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508819BF-66C4-44C0-B5B7-8441FB7ACB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
