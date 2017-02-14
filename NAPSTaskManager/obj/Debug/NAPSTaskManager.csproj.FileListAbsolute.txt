@@ -1,0 +1,7 @@
+C:\tmp\NAPSTaskExecutor\NAPSTaskManager\bin\Debug\NAPSTaskManager.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskManager\bin\Debug\NAPSTaskManager.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManager\bin\Debug\NAPSTaskExecutor.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskManager\bin\Debug\NAPSTaskExecutor.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManager\obj\Debug\NAPSTaskManager.csprojResolveAssemblyReference.cache
+C:\tmp\NAPSTaskExecutor\NAPSTaskManager\obj\Debug\NAPSTaskManager.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskManager\obj\Debug\NAPSTaskManager.pdb
