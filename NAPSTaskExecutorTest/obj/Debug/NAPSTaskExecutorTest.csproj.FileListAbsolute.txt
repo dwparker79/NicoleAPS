@@ -1,0 +1,8 @@
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\bin\Debug\NAPSTaskExecutorTest.exe.config
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\bin\Debug\NAPSTaskExecutorTest.exe
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\bin\Debug\NAPSTaskExecutorTest.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\bin\Debug\NAPSTaskExecutor.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\bin\Debug\NAPSTaskExecutor.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\obj\Debug\NAPSTaskExecutorTest.csprojResolveAssemblyReference.cache
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\obj\Debug\NAPSTaskExecutorTest.exe
+C:\tmp\NAPSTaskExecutor\NAPSTaskExecutorTest\obj\Debug\NAPSTaskExecutorTest.pdb

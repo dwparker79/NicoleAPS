@@ -1,0 +1,10 @@
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\bin\Debug\NAPSTaskManagerTest.exe.config
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\bin\Debug\NAPSTaskManagerTest.exe
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\bin\Debug\NAPSTaskManagerTest.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\bin\Debug\NAPSTaskExecutor.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\bin\Debug\NAPSTaskManager.dll
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\bin\Debug\NAPSTaskExecutor.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\bin\Debug\NAPSTaskManager.pdb
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\obj\Debug\NAPSTaskManagerTest.csprojResolveAssemblyReference.cache
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\obj\Debug\NAPSTaskManagerTest.exe
+C:\tmp\NAPSTaskExecutor\NAPSTaskManagerTest\obj\Debug\NAPSTaskManagerTest.pdb
